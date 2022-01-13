@@ -19,9 +19,9 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ugnic&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ugnic&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugnic&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugnic&langs_count=8&theme=dracula" />
 </a>
